@@ -126,7 +126,7 @@ git commit --message "Kezdés"
 Állítsuk be hol van a távoli szerver:
 
 ```cmd
-git remote add origin http://github.com/janos/reponev.git
+git remote add origin https://github.com/janos/reponev.git
 ```
 
 Feltöltés:
